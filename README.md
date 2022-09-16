@@ -1,5 +1,8 @@
 # Find your dreamy recipe and customize on your occasion
 
+Deployed to: 
+✔ https://alessandrossearchify.netlify.app/
+
 - The site has many features like
 
   👀 Searching the recipe.
